@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # basic-pemrograman
-=======
 
 ## Bahasa Dart
 Dart adalah bahasa pemrograman yang dikembangkan oleh Google. Dart awalnya diciptakan sebagai bahasa untuk pengembangan web, tetapi sekarang juga digunakan untuk pengembangan aplikasi mobile, desktop, dan server.
@@ -10,4 +8,3 @@ JavaScript adalah bahasa pemrograman yang paling umum digunakan untuk pengembang
 
 ## Bahasa TypeScript
 TypeScript adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur pemrograman berorientasi objek seperti tipe data statis. Ini dikembangkan oleh Microsoft dan semakin populer dalam pengembangan web dan aplikasi.
->>>>>>> d8b791efe32e0b684f45f9b8cd543f0cc21132df
